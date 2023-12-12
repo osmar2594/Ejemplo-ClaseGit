@@ -1,2 +1,3 @@
 Hola mi nombre es Osmar!
-C:\Users\osmar\Dropbox\PC\Desktop\32-code-b\Git\historial.txt
+
+Este es la ruta a el historial C:\Users\osmar\Dropbox\PC\Desktop\32-code-b\Git\historial.txt
